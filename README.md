@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Ubuntu美化脚本
 
-You can use the [editor on GitHub](https://github.com/ltoddy/ubuntu-beautification-scripts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 安装的软件有:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- google-chrome
+- Visual Studio Code
+- docky
+- docker
+- mysql
+- mongodb
+- redis
+- vim
+- 网易云音乐
+- Latex
+- guake
+- 搜狗输入法
+- slack
+- wireshark
+- lantern 科学上网
+- VLC (是一款跨平台多媒体播放器及框架，可播放大多数多媒体文件)
+- Silentcast (是一款专注于GIF录制工具)
+- steam
+- nodejs LTS 版本
+- 微信
+- Typora (是极简的Markdown编辑器)
+- indicator-sysmonitor
+- Jetbrains
+- Git
+- mysql-workbench
+- tmux, tmuxinator
+- figlet
+- oh-my-zsh
+- apt-fast
+- irc
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 移除无用的自带工具:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ltoddy/ubuntu-beautification-scripts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- libreoffice-common
+- unity-webapps-common
+- thunderbird
+- totem
+- rhythmbox
+- simple-scan
+- brasero
+- gnome-mahjongg
+- aisleriot
+- gnome-mines
+- gnome-sudoku
+- onboard
