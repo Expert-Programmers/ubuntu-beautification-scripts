@@ -6,7 +6,7 @@
 - Visual Studio Code
 - docky
 - docker
-- mysql
+- mysql (contain workbench)
 - mongodb
 - redis
 - vim
