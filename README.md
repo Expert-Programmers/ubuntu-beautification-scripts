@@ -48,3 +48,11 @@
 - gnome-mines
 - gnome-sudoku
 - onboard
+
+
+### 使用说明:
+> cd ubuntu-beautification-scripts
+
+- remove-useless.sh (移除无用的软件)
+
+> sudo ./remove-useless.sh
