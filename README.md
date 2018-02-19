@@ -56,3 +56,5 @@
 - remove-useless.sh (移除无用的软件)
 
 > sudo ./remove-useless.sh
+
+![](https://img.vim-cn.com/f9/35e8535f3f58e0b6f1ed9917b60f323ff53503.png))
