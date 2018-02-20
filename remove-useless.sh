@@ -23,7 +23,8 @@ function remove-software() {
 }
 
 function main() {
-    echo "将要被移除的软件有:\n\t${useless_softwares[@]}"
+    printf "将要被移除的软件有:\n"
+    printf "\t%s\n" ${useless_softwares[@]}
     while [ true ]; do
         read -p "是否要继续? (yes/no) > " choose
         case $choose in
