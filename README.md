@@ -2,37 +2,40 @@
 
 ### 安装的软件有:
 
+- mysql (包括其官方的GUI: mysql-workbench)
+- steam
+- Git
+- vim
+- tmux, tmuxinator
+- curl
+- figlet
+- irssi(irc)
+- pip3
+- redis-server
+- docker
+- guake
+- docky
+- mongodb
+- screenfetch
+
 - google-chrome
 - Visual Studio Code
-- docky
-- docker
-- mysql (contain workbench)
-- mongodb
-- redis
-- vim
+- postman
 - 网易云音乐
-- Latex
-- guake
 - 搜狗输入法
+- indicator-sysmonitor
 - slack
-- wireshark
 - lantern 科学上网
 - VLC (是一款跨平台多媒体播放器及框架，可播放大多数多媒体文件)
 - Silentcast (是一款专注于GIF录制工具)
-- steam
 - nodejs LTS 版本
 - 微信
 - Typora (是极简的Markdown编辑器)
 - indicator-sysmonitor
-- Jetbrains
-- Git
-- mysql-workbench
-- tmux, tmuxinator
-- figlet
+- Jetbrains - Toolbox
 - oh-my-zsh
 - apt-fast
-- irc
-
+- Latex (sudo apt-get install texlive-full | sudo apt-get install texmaker)
 
 ### 移除无用的自带工具:
 
@@ -58,3 +61,7 @@
 > sudo ./remove-useless.sh
 
 ![](https://img.vim-cn.com/f9/35e8535f3f58e0b6f1ed9917b60f323ff53503.png))
+
+> sudo ./install-by-apt.sh
+
+![](https://img.vim-cn.com/fc/fc2eed33b393d9bb8f3554e27e01403c29d8c4.png)
