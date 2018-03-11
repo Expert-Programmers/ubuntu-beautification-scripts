@@ -17,6 +17,7 @@
 - docky
 - mongodb
 - screenfetch
+- nmap
 
 - google-chrome
 - Visual Studio Code

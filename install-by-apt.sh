@@ -18,6 +18,7 @@ softwares=(
     guake
     docky
     screenfetch
+    nmap
 )
 
 function install_softwares() {
