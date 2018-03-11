@@ -1,5 +1,9 @@
 ## Ubuntu美化脚本
 
+> 考虑到Ubuntu17+的默认桌面环境是Gnome3,所以就没写自动化更换Gnome3桌面环境的脚本,如果你是Ubuntu16.04及一下,可以看下面的教程:
+
+教程链接: [https://www.jianshu.com/p/ecc44fe178c3](https://www.jianshu.com/p/ecc44fe178c3)
+
 ### 安装的软件有:
 
 - mysql (包括其官方的GUI: mysql-workbench)
