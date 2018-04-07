@@ -7,6 +7,7 @@ software_urls=(
     https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64-bit.deb # Lantern
     # https://dl.pstmn.io/download/latest/linux64 # Postman
     # https://download.jetbrains.8686c.com/toolbox/jetbrains-toolbox-1.6.2914.tar.gz # jetbrains-toolbox
+    # https://download.robomongo.org/1.2.1/linux/robo3t-1.2.1-linux-x86_64-3e50a65.tar.gz # Mongodb-GUI Robo 3T
 )
 
 function download_and_install_software() {
